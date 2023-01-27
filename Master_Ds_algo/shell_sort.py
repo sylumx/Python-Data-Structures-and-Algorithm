@@ -1,5 +1,6 @@
 # Shell sort, relies on gap increament - its a variation of insertion sort
 #  gap = first element n // 2
+# Learning data structures is changing how I think about coding
 
 import random
 
